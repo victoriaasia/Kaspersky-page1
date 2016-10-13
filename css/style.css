@@ -9,12 +9,11 @@ html, body, div, span, h1, h2, h3, h4, h5, h6, a, img {
 .k-game-container {
   width: 754px;
   height: 795px;
-  margin: 0 auto; }
+  font-family: "CenturyGothicRegular";}
 
 .k-game-header {
   width: 100%;
   height: 100%;
-  font-family: "CenturyGothicRegular";
   position: relative; }
 
 .k-game-header__content {
